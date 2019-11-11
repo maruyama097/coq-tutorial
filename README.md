@@ -3,6 +3,7 @@
 このチュートリアルは、coq-jupyter の形式で記述されています。Coqとcoq-jupyter をインストールしていれば、ドキュメントの内部でCoqのコマンドが実行できます。
 
 全体の構成については[目次](0-Contents.ipynb)をご覧ください。（ファイル名は、0-Contents.ipynbです。）
+git clone https://github.com/maruyama097/coq-tutorial でダウンロードできます。
 
 Coqとcoq-jupyterのインストールなしでも、jupyter のnotebookとしてだけなら、GitHubへのアクセスだけでも、画像を含めてドキュメントの多くの部分を読むことは可能です。
 - ただ、文字の一部が欠けていたり、HTMLのタグがそのまま表示されることがあります。
